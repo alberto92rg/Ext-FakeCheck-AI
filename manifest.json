@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "FakeCheck-AI",
+  "version": "1.0",
+  "description": "Verifica se un testo è una fake news con l'AI",
+  "permissions": ["scripting", "tabs", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
