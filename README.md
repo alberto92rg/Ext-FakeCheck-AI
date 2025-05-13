@@ -5,6 +5,7 @@ FakeCheck-AI è un’estensione Chrome che ti aiuta a identificare possibili fak
   - Ricevere un punteggio di affidabilità e una spiegazione dettagliata.
 
 **Istruzioni per scaricare l’estensione in locale su Google Chrome**
+
 **1. Scaricare l'intero repository in versione zip**
 
 **2. Apri Chrome e vai alla pagina delle estensioni**
