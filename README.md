@@ -6,7 +6,7 @@ FakeCheck-AI è un’estensione Chrome che ti aiuta a identificare possibili fak
 
 **Istruzioni per scaricare l’estensione in locale su Google Chrome**
 
-**1. Scaricare l'intero repository in versione zip**
+**1. Scaricare l'intero repository in versione zip e successivamente estrarlo**
 
 **2. Apri Chrome e vai alla pagina delle estensioni**
 Digita nella barra degli indirizzi: chrome://extensions/
@@ -16,7 +16,6 @@ In alto a destra, attiva l'interruttore “Modalità sviluppatore” (Developer 
 
 **4. Carica l’estensione**
 Clicca su “Carica estensione non pacchettizzata” (Load unpacked).
-
 Seleziona la cartella dell’estensione (non un file zip, la cartella con manifest.json).
 
 **5. Testa l’estensione**
